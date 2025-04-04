@@ -5,7 +5,8 @@ In today’s digital landscape, individuals are overwhelmed by a constant influx
 
 ## Solution
 
-![Model](https://github.com/user-attachments/assets/737acadd-920d-440f-9ce0-3d0112a72106)
+<img width="384" alt="Screenshot 2025-04-04 at 6 58 20 PM" src="https://github.com/user-attachments/assets/2a818a54-215c-4324-99a8-f06ca70e2079" />
+
 
 BlockTalk is a decentralized messaging app built on the Bitcoin network that empowers users to take control of their communication by monetizing their attention. With BlockTalk, users create accounts and set customizable price targets in satoshis (sats) for incoming messages based on perceived importance, ensuring that only senders willing to pay can reach them. This system filters out spam, rewards users for their time with Bitcoin payments, and provides a secure, privacy-focused platform that leverages blockchain technology to eliminate intermediaries and enhance user autonomy.
 
