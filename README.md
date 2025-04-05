@@ -21,3 +21,7 @@ David Kazeem | [GitHub](https://github.com/davonjagah)
 
 Brian Haney | [GitHub](https://github.com/Bhaney44)
 
+## MIT Bitcoin Expo Hackathon
+
+<img width="992" alt="Screenshot 2025-04-04 at 7 04 41 PM" src="https://github.com/user-attachments/assets/faacc774-8afa-4497-906f-6bb0282c5748" />
+
