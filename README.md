@@ -12,7 +12,7 @@ Block Talk is a decentralized messaging app built on the Bitcoin network that em
 
 ## Opportunity
 
-BlockTalk presents a unique opportunity to revolutionize digital communication by aligning economic incentives with user attention, tapping into the growing Bitcoin ecosystem and the increasing demand for privacy-centric solutions. As cryptocurrency adoption rises, millions of Bitcoin users could turn to BlockTalk to earn income from their inboxes, while advertisers, sales professionals, and business development leaders gain a direct, efficient channel to reach targeted, high-value individuals. By bridging the gap between attention economics and decentralized technology, BlockTalk has the potential to capture a significant share of the messaging and advertising market, offering a win-win for users and senders alike.
+Block Talk presents a unique opportunity to revolutionize digital communication by aligning economic incentives with user attention, tapping into the growing Bitcoin ecosystem and the increasing demand for privacy-centric solutions. As cryptocurrency adoption rises, millions of Bitcoin users could turn to Block Talk to earn income from their inboxes, while advertisers, sales professionals, and business development leaders gain a direct, efficient channel to reach targeted, high-value individuals. By bridging the gap between attention economics and decentralized technology, Block Talk has the potential to capture a significant share of the messaging and advertising market, offering a win-win for users and senders alike.
 
 ## Team
 Samuel Tosin | [GitHub](https://github.com/Samuellyworld)
