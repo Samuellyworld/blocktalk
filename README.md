@@ -16,5 +16,8 @@ BlockTalk presents a unique opportunity to revolutionize digital communication b
 
 ## Team
 Samuel Tosin | [GitHub](https://github.com/Samuellyworld)
+
 David Kazeem | [GitHub](https://github.com/davonjagah)
+
 Brian Haney | [GitHub](https://github.com/Bhaney44)
+
