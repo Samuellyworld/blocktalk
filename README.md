@@ -55,7 +55,7 @@ Brian Haney | [GitHub](https://github.com/Bhaney44)
 ## 🔗 LINKS
 - [Live](https://block-talk.netlify.app/scan)
 - [Figma](https://www.figma.com/design/4BM1Z1JuLmpcP2qYTRZnQt/Untitled?node-id=14-11&t=r4UkeOoXLVVpByb2-0)
-- [Youtube]()
+- [Youtube](https://www.youtube.com/watch?v=ouKLBaokbzA)
 - [Deck](https://github.com/Samuellyworld/blocktalk/blob/main/Deck/Block%20Talk%20Deck.pdf)
 
 
