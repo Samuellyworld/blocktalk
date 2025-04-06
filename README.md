@@ -1,5 +1,7 @@
 # ₿lock Talk
 
+[Click Here to Try Block Talk Now!](https://block-talk.netlify.app/)
+
 ## Problem
 We are all overwhelmed by a constant influx of spam emails, messages, and advertisements across various platforms, yet we receive no tangible reward for the attention we expend sifting through this noise. Despite the inherent value of our time and focus, we are left uncompensated while corporations and spammers exploit their inboxes. This imbalance creates a frustrating experience for users, who lack control over who can reach them and are unable to monetize their attention, while legitimate advertisers and professionals struggle to connect with high-value individuals amidst the clutter.
 
