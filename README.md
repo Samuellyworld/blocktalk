@@ -14,8 +14,9 @@
     <img src="https://img.shields.io/badge/3-contributors-green" alt="contributors">
 </p>
 
+## 
 ## 🤦🏼‍♂️ Problem
-Spam is a lose-lose mess. Users drown in junk—90% of emails are spam—wasting time with no reward. Corporations lose too, blindly blasting messages that miss the mark instead of hitting the right audience. We’re flipping it: Block Talk turns attention into a win-win, where users earn for their focus and companies get more bang for their buck targeting the right people.
+We are all overwhelmed by a constant influx of spam emails, messages, and advertisements across various platforms, yet we receive no tangible reward for the attention we expend sifting through this noise. Despite the inherent value of our time and focus, we are left uncompensated while corporations and spammers exploit their inboxes. This imbalance creates a frustrating experience for users, who lack control over who can reach them and are unable to monetize their attention, while legitimate advertisers and professionals struggle to connect with high-value individuals amidst the clutter.
 
 ## ✅ Solution
 
@@ -31,14 +32,14 @@ Spam is a lose-lose mess. Users drown in junk—90% of emails are spam—wasting
 Block Talk is a decentralized messaging app built on the Bitcoin network that empowers users to take control of their communication by monetizing their attention. With Block Talk, users create accounts and set customizable price targets in satoshis (sats) for incoming messages based on perceived importance, ensuring that only senders willing to pay can reach them. This system filters out spam, rewards users for their time with Bitcoin payments, and provides a secure, privacy-focused platform that leverages blockchain technology to eliminate intermediaries and enhance user autonomy.
 
 # 🤖 Tools & Technologies
--  ReactJs
--  Typescript
--  LNURL Auth
--  Web sockets
--  Voltage
--  LNBIT
--  Firebase
--  ExpresJs
+- React + TypeScript for a smooth, modern frontend
+- WebSockets for real-time messaging
+- LNURL Auth + LNBits - for lightning wallet integration
+- Firebase - for cloud infrastructure
+- Express.js -for backend services
+- Voltage - for Lightning Network node management
+- Redux - for state management
+- Styled Components - for styling
 
 ## 🚀 Opportunity
 
