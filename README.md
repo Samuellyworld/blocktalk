@@ -15,7 +15,7 @@
 </p>
 
 ## 🤦🏼‍♂️ Problem
-We are all overwhelmed by a constant influx of spam emails, messages, and advertisements across various platforms, yet we receive no tangible reward for the attention we expend sifting through this noise. Despite the inherent value of our time and focus, we are left uncompensated while corporations and spammers exploit their inboxes. This imbalance creates a frustrating experience for users, who lack control over who can reach them and are unable to monetize their attention, while legitimate advertisers and professionals struggle to connect with high-value individuals amidst the clutter.
+Spam is a lose-lose mess. Users drown in junk—90% of emails are spam—wasting time with no reward. Corporations lose too, blindly blasting messages that miss the mark instead of hitting the right audience. We’re flipping it: Block Talk turns attention into a win-win, where users earn for their focus and companies get more bang for their buck targeting the right people.
 
 ## ✅ Solution
 
