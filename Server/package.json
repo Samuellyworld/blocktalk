@@ -1,0 +1,44 @@
+{
+  "name": "blocktalk-server",
+  "version": "1.0.0",
+  "description": "this is block talk server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "dist": "tsc -p .",
+    "postbuild": "cp ./serviceAccount.json ./dist/serviceAccount.json",
+    "dev": "nodemon server.ts",
+    "start": "node ./dist/server.js"
+  },
+  "author": "Samuel Tosin and David Kazeem",
+  "license": "MIT",
+  "dependencies": {
+    "@types/multer": "^1.4.12",
+    "axios": "^1.7.9",
+    "bcryptjs": "2.4.3",
+    "bech32": "^2.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "firebase-admin": "^13.2.0",
+    "helmet": "^8.0.0",
+    "jsonwebtoken": "^9.0.2",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.5-lts.1",
+    "qrcode": "^1.5.4",
+    "secp256k1": "^5.0.1",
+    "socket.io": "^4.8.1"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.1",
+    "@types/node": "^22.13.4",
+    "@types/qrcode": "^1.5.5",
+    "@types/secp256k1": "^4.0.6",
+    "@types/ws": "^8.18.1",
+    "nodemon": "^3.1.9",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2"
+  }
+}
